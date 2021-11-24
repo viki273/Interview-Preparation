@@ -1,2 +1,2 @@
-# Career-Preparation
-Career Preparation Documents
+# Interview-Preparation
+Interview Preparation Documents
